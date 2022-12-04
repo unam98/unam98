@@ -1,24 +1,12 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=330&section=header&text=nami's%20github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDB4A6&height=260&section=header&text=nami's%20github&fontSize=60&fontAlignY=40&fontColor=593E26)
+
 
 
 <!-- 깃허브 stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unam98)](https://github.com/unam98/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unam98&theme=darcula)](https://github.com/unam98/github-readme-stats)
 
+<br/>
 
-<!-- 자주 사용한 언어 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unam98)](https://github.com/unam98/github-readme-stats)
-<!--
-**unam98/unam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 경희대학교 산업경영공학과 4-1 후 휴학중 <br/>
+- 코틀린 안드로이드 앱 개발 공부중 🌱
