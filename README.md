@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDB4A6&height=260&section=header&text=nami's%20github&fontSize=60&fontAlignY=40&fontColor=593E26)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDB4A6&height=260&section=header&text=Unam's%20Github&fontSize=60&fontAlignY=40&fontColor=593E26)
 
 
 
