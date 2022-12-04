@@ -1,5 +1,10 @@
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=330&section=header&text=nami's%20github&fontSize=70)
+
+
 <!-- 깃허브 stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unam98)](https://github.com/unam98/github-readme-stats)
+
 
 <!-- 자주 사용한 언어 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unam98)](https://github.com/unam98/github-readme-stats)
