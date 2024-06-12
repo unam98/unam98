@@ -21,3 +21,12 @@ IT 커리어 성장형 네트워킹 서비스, <b> [틈틈](https://github.com/d
 - <b> [Depromeet](https://github.com/depromeet#%EB%94%94%ED%94%84%EB%A7%8C---%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%A7%8C%EB%82%AC%EC%9D%84-%EB%95%8C) </b> 14th Android Part (2023.11 ~ 2024.02)
 - <b> [SOPT](https://www.sopt.org/) </b> 31th Android Part  (2022.09 ~ 2023.01) 
 <br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/unam98?pet-id=572662990825648628"
+    width="600"
+    height="120"
+  />
+</a>
+  
